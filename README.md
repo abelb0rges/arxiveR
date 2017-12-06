@@ -1,4 +1,4 @@
 # arxiveR
-Interactive data analysis of arXiv (https://arxiv.org) papers "metadata".
+Interactive meta-data analysis of arXiv (https://arxiv.org) papers.
 
-This is supposed to become a shiny app.
+TODO: implement visualizations for interactive search queries via the arXiv API in aRxiv pkg.
